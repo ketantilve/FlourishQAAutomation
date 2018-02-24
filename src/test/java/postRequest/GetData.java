@@ -29,7 +29,7 @@ public class GetData
 	{
 	
 		RestAssured.baseURI ="https://sandbox.alloy.co/v1";
-
+//second commit
 		
 		RequestSpecification request = RestAssured.given().auth().basic("26zelNJ6QuHeYgA0ePZMhROu0lOeEx4QY", "MjHRUnAgP8aR4D3bA3JipKJE3qpQI9ry");
 	
